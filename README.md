@@ -12,9 +12,8 @@ A simple JavaScript application that allows users to create, display, and delete
 
 - HTML  
 - CSS  
-- JavaScript (Vanilla)
+- JavaScript
 
-## 🚀 Getting Started
 
 ## 🎓 Learning Source
 This project was built while following a course on Udemy as part of a training to practice handling cookies in JavaScript.
@@ -22,6 +21,10 @@ This project was built while following a course on Udemy as part of a training t
 ## 📸 Preview
 
 ![preview](./preview.png)
+
+## 🚀 Getting Started
+
+- Live site - [CookieGenerator](https://cookie-generator.vercel.app/)
 
 ## 👩‍💻 Author
 
